@@ -1,3 +1,4 @@
+// update by hieu
 <div class="banner">
             <img src="./img/học-viện.jpg" alt="banner">
             <div class="banner-content">
